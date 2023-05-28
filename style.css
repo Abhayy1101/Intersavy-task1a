@@ -1,0 +1,33 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+
+body{
+    background-color: lightcyan;
+}
+
+.h1{
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 44px;
+    color: blueviolet;
+}
+
+.new{
+    margin: 20px;
+    padding: 2px;
+    display: flex;
+    align-items: left; /*vertical alignment*/
+    flex-direction: column;
+
+}
+
+.row{
+    border-style: solid;
+    margin: 20px;
+    padding: 20px 20px;
+}
+
+
